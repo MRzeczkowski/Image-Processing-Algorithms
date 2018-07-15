@@ -1,0 +1,54 @@
+C:\Users\Mateusz\source\repos\APO\APO\bin\Debug\APO.exe.config
+C:\Users\Mateusz\source\repos\APO\APO\bin\Debug\APO.exe
+C:\Users\Mateusz\source\repos\APO\APO\bin\Debug\APO.pdb
+C:\Users\Mateusz\source\repos\APO\APO\obj\Debug\APO.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\source\repos\APO\APO\obj\Debug\APO.APO.resources
+C:\Users\Mateusz\source\repos\APO\APO\obj\Debug\APO.Properties.Resources.resources
+C:\Users\Mateusz\source\repos\APO\APO\obj\Debug\APO.csproj.GenerateResource.Cache
+C:\Users\Mateusz\source\repos\APO\APO\obj\Debug\APO.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\source\repos\APO\APO\obj\Debug\APO.exe
+C:\Users\Mateusz\source\repos\APO\APO\obj\Debug\APO.pdb
+C:\Users\Mateusz\source\repos\APO\APO\obj\Debug\APO.Image_Panel.resources
+C:\Users\Mateusz\source\repos\APO\APO\obj\Debug\APO.BeforeAfterPanel.resources
+C:\Users\Mateusz\source\repos\APO\APO\obj\Debug\APO.UOPPanel.resources
+C:\Users\Mateusz\source\repos\APO\APO\obj\Debug\APO.TwoArgsPanel.resources
+C:\Users\Mateusz\source\repos\APO\APO\obj\Debug\APO.KernelOpperationsForm.resources
+C:\Users\Mateusz\source\repos\APO\APO\obj\Debug\APO.MedianBlurPanel.resources
+C:\Users\Mateusz\source\repos\APO\APO\obj\Debug\APO.TwoSharpeningMasks.resources
+C:\Users\Mateusz\source\repos\APO\APO\obj\Debug\APO.LogicalFiltrationForm.resources
+C:\Users\Mateusz\source\repos\RzeczkowskiAPOD17_18\APO\bin\Debug\APO.exe.config
+C:\Users\Mateusz\source\repos\RzeczkowskiAPOD17_18\APO\bin\Debug\APO.exe
+C:\Users\Mateusz\source\repos\RzeczkowskiAPOD17_18\APO\bin\Debug\APO.pdb
+C:\Users\Mateusz\source\repos\RzeczkowskiAPOD17_18\APO\obj\Debug\APO.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\source\repos\RzeczkowskiAPOD17_18\APO\obj\Debug\APO.KernelOpperationsForm.resources
+C:\Users\Mateusz\source\repos\RzeczkowskiAPOD17_18\APO\obj\Debug\APO.LogicalFiltrationForm.resources
+C:\Users\Mateusz\source\repos\RzeczkowskiAPOD17_18\APO\obj\Debug\APO.APO.resources
+C:\Users\Mateusz\source\repos\RzeczkowskiAPOD17_18\APO\obj\Debug\APO.Image_Panel.resources
+C:\Users\Mateusz\source\repos\RzeczkowskiAPOD17_18\APO\obj\Debug\APO.MedianBlurPanel.resources
+C:\Users\Mateusz\source\repos\RzeczkowskiAPOD17_18\APO\obj\Debug\APO.Properties.Resources.resources
+C:\Users\Mateusz\source\repos\RzeczkowskiAPOD17_18\APO\obj\Debug\APO.BeforeAfterPanel.resources
+C:\Users\Mateusz\source\repos\RzeczkowskiAPOD17_18\APO\obj\Debug\APO.TwoArgsPanel.resources
+C:\Users\Mateusz\source\repos\RzeczkowskiAPOD17_18\APO\obj\Debug\APO.TwoSharpeningMasks.resources
+C:\Users\Mateusz\source\repos\RzeczkowskiAPOD17_18\APO\obj\Debug\APO.UOPPanel.resources
+C:\Users\Mateusz\source\repos\RzeczkowskiAPOD17_18\APO\obj\Debug\APO.csproj.GenerateResource.Cache
+C:\Users\Mateusz\source\repos\RzeczkowskiAPOD17_18\APO\obj\Debug\APO.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\source\repos\RzeczkowskiAPOD17_18\APO\obj\Debug\APO.exe
+C:\Users\Mateusz\source\repos\RzeczkowskiAPOD17_18\APO\obj\Debug\APO.pdb
+C:\Users\Mateusz\source\repos\Aplikacja zbiorcza\APO\bin\Debug\APO.exe.config
+C:\Users\Mateusz\source\repos\Aplikacja zbiorcza\APO\bin\Debug\APO.exe
+C:\Users\Mateusz\source\repos\Aplikacja zbiorcza\APO\bin\Debug\APO.pdb
+C:\Users\Mateusz\source\repos\Aplikacja zbiorcza\APO\obj\Debug\APO.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\source\repos\Aplikacja zbiorcza\APO\obj\Debug\APO.KernelOpperationsForm.resources
+C:\Users\Mateusz\source\repos\Aplikacja zbiorcza\APO\obj\Debug\APO.LogicalFiltrationForm.resources
+C:\Users\Mateusz\source\repos\Aplikacja zbiorcza\APO\obj\Debug\APO.APO.resources
+C:\Users\Mateusz\source\repos\Aplikacja zbiorcza\APO\obj\Debug\APO.Image_Panel.resources
+C:\Users\Mateusz\source\repos\Aplikacja zbiorcza\APO\obj\Debug\APO.MedianBlurPanel.resources
+C:\Users\Mateusz\source\repos\Aplikacja zbiorcza\APO\obj\Debug\APO.Properties.Resources.resources
+C:\Users\Mateusz\source\repos\Aplikacja zbiorcza\APO\obj\Debug\APO.BeforeAfterPanel.resources
+C:\Users\Mateusz\source\repos\Aplikacja zbiorcza\APO\obj\Debug\APO.TwoArgsPanel.resources
+C:\Users\Mateusz\source\repos\Aplikacja zbiorcza\APO\obj\Debug\APO.TwoSharpeningMasks.resources
+C:\Users\Mateusz\source\repos\Aplikacja zbiorcza\APO\obj\Debug\APO.UOPPanel.resources
+C:\Users\Mateusz\source\repos\Aplikacja zbiorcza\APO\obj\Debug\APO.csproj.GenerateResource.Cache
+C:\Users\Mateusz\source\repos\Aplikacja zbiorcza\APO\obj\Debug\APO.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\source\repos\Aplikacja zbiorcza\APO\obj\Debug\APO.exe
+C:\Users\Mateusz\source\repos\Aplikacja zbiorcza\APO\obj\Debug\APO.pdb
